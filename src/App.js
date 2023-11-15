@@ -17,5 +17,5 @@ function App() {
     </div>
   )
 }
-//export the process
+//export the app!
 export default App;
